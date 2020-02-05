@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Práctica con imagenes</title>
+ </head>
+ <body>
+   <p>Dinosaurio</p>
+   <img src="https://images.app.goo.gl/6eWWnBpJQayk9mpd8" alt="La imagen muestra un dinosaurio de color verde" width="30" heigth="90">
+ </body>
+</html>
